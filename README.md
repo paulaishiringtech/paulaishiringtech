@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I’m Paula
 
-<!--
-**paulaishiringtech/paulaishiringtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work across Technical Recruiting, Customer Success, and HR — helping teams hire, support, and retain great people.  
+I recruit for a wide range of technical roles and focus on creating clear, human-centered processes that make hiring and collaboration smoother for everyone.
 
-Here are some ideas to get you started:
+### 💼 What I do
+- Technical Recruiting across multiple areas (software, product, data, QA, infrastructure and more)
+- Customer Success and client relationship management
+- HR operations, onboarding, and people processes
+- Candidate experience, communication, and interview coordination
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Where I’m based
+Lisbon, Portugal — supporting hiring locally and internationally.
+
+### 🤝 How I work
+I value clarity, structure, and empathy.  
+I believe great hiring comes from honest communication and strong partnerships between candidates, teams, and recruiters.
+
+### 📫 Let’s connect
+- **LinkedIn:** https://www.linkedin.com/in/paulanog/
+- **Email:** paula@gapstars.net
